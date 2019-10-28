@@ -23,7 +23,7 @@ module.exports = {
       })
     ]
   },
-  context: resolve(__dirname, "./src"),
+  context: resolve(__dirname, "../src"),
   module: {
     rules: [
       {

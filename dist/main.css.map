@@ -1,1 +1,1 @@
-{"version":3,"sources":["webpack:///./App/App.scss"],"names":[],"mappings":"AAAA,mBAAmB","file":"main.css","sourcesContent":[".App__main___3Ujee{color:red}\n"],"sourceRoot":""}
+{"version":3,"sources":["webpack:///./App/App.scss"],"names":[],"mappings":"AAAA,mBAAmB,qBAAqB,YAAY","file":"main.css","sourcesContent":[".App__main___3Ujee{background-color:red;width:500px;height:500px}\n"],"sourceRoot":""}
